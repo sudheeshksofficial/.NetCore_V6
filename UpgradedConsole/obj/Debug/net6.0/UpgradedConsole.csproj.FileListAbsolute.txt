@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.AssemblyInfo.cs
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\bin\Debug\net6.0\UpgradedConsole.exe
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\bin\Debug\net6.0\UpgradedConsole.deps.json
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\bin\Debug\net6.0\UpgradedConsole.runtimeconfig.json
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\bin\Debug\net6.0\UpgradedConsole.dll
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\bin\Debug\net6.0\UpgradedConsole.pdb
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.dll
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\refint\UpgradedConsole.dll
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.pdb
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\UpgradedConsole.genruntimeconfig.cache
+C:\Users\hp\Desktop\deleteit\UpgradedConsole\obj\Debug\net6.0\ref\UpgradedConsole.dll
